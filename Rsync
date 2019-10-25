@@ -1,0 +1,2 @@
+rsync -aE $1 $2
+echo rsync has been run — source $1 destination $2

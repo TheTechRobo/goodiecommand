@@ -1,0 +1,9 @@
+cp Deleteinteractive /usr/bin/delete
+cp pokeydunnet /usr/bin/dunnet
+cp Rsync synfol
+
+chmod +x /usr/bin/delete
+chmod +x /usr/bin/dunnet
+chmod +x /usr/bin/synfol
+
+#Commented ones may not be used

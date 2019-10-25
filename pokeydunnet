@@ -1,0 +1,2 @@
+echo Loading dunnet — a text adventure game
+emacs -batch -l dunnet
