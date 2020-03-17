@@ -1,9 +1,10 @@
-echo goodiecommand is installed. Version 1.0. Thank you for using goodiecommand.
-echo \n Commands as of now: 
-Command      |   Runs               |  Description              |Syntax                        |
--------------|----------------------|---------------------------|------------------------------|
-synfol       |   rsync -aE          |Sync two folders           |synfol <source> <destination> |
-dunnet       | emacs batch -l dunnet|Fun adventure game dunnet  |dunnet                        |
-delete       | rm -rfi              |Confirm before deleting    |rm -rfi <file>                |
-goodiecommand|This command          |About goodiecommand        |goodiecommand                 |
-install      |apt install           |Install package (APT only) |sudo install <packagename>    |
+echo goodiecommand is installed. Version 1.0.1. Thank you for using goodiecommand.
+echo
+echo Commands as of now: 
+echo "Command      |   Runs               |  Description              |Syntax                        |"
+echo "-------------|----------------------|---------------------------|------------------------------|"
+echo "synfol       |   rsync -aE          |Sync two folders           |synfol <source> <destination> |"
+echo "dunnet       | emacs batch -l dunnet|Fun adventure game dunnet  |dunnet                        |"
+echo "delete       | rm -rfi              |Confirm before deleting    |delete <file>                 |"
+echo "goodiecommand|This command          |About goodiecommand        |goodiecommand                 |"
+echo "install      |apt install           |Install package (APT only) |sudo install <packagename>    |"
