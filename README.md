@@ -17,6 +17,6 @@ If you are new to Linux I highly recommend this if you are planning on using the
 If you have a command you use lots and would like a shortcut included in goodiecommand please file a feature request OR code it yourself. 
 
 #  Word of warning
-`install` will only work on Debian-based package systems. (In case you don't know what that is, type `apt` in the terminal. If it says "apt: command not found" or similar, you (probably) don't have a Debian package system. If it shows a long list of stuff, you have a Debian package system.
+`install` will only work on Debian-based package systems. (In case you don't know what that is, type `dpkg` in the terminal. If it says "dpkg: command not found" or similar, you don't have a Debian package system. If it shows a long list of stuff, you most likely have a Debian package system.
 
 Thanks for using!
