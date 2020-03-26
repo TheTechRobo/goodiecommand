@@ -3,7 +3,7 @@ echo
 echo Commands as of now: 
 echo "Command      |   Runs               |  Description              |Syntax                        |"
 echo "-------------|----------------------|---------------------------|------------------------------|"
-echo "synfol       |   rsync -aE          |Sync two folders           |synfol <source> <destination> |"
+echo "synfol       | rsync -aE            |Sync two folders           |synfol <source> <destination> |"
 echo "dunnet       | emacs batch -l dunnet|Fun adventure game dunnet  |dunnet                        |"
 echo "delete       | rm -rfi              |Confirm before deleting    |delete <file>                 |"
 echo "goodiecommand|This command          |About goodiecommand        |goodiecommand                 |"
