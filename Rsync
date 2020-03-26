@@ -1,2 +1,3 @@
-rsync -aE $1 $2
-echo rsync has been run — source $1 destination $2
+rsync -aE $1 $2 && echo Success: folder $1 has been synchronised with $2!
+# In bash, && signifies "if the operation is successful, run the command after &&. Else, do not run it.
+# If you wanted to always run the second command, ; is your mate.
