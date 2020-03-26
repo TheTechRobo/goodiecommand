@@ -2,9 +2,10 @@
  Making commands simpler for novices
 
 # Installing goodiecommand
-All you do is run `chmod +x installGoodCommands` and then `sudo bash installGoodCommands` in the terminal and it should install..
+All you do is run `chmod +x install.sh` and then `sudo bash install.sh` in the terminal and it should install.  
+If it gives you any errors, go to my [support](https://github.com/thetechrobo/support) repo and leave an Issue there BEFORE leaving an issue here. These Issues are reserved for known bugs.
 
-# What does goodiecommand do
+# What does it do?
 goodiecommand basically installs currently 4 commands that link to others — `rsync -aE`, `emacs batch -l dunnet`, `rm -rfi`, and `sudo apt update && sudo apt install` for now.
 
 # Is it a virus? 
