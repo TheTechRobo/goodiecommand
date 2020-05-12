@@ -2,7 +2,7 @@ cp Deleteinteractive /usr/bin/delete #copy file Deleteinteractive to folder /usr
 echo "Successfully copied command `delete'" >> logg.ed
 cp pokeydunnet /usr/bin/dunnet
 echo "Successfully copied command `dunnet'" >> logg.ed
-cp Rsync /usr/bin/sync
+cp Rsync /usr/bin/syncfolder
 echo "Successfully copied command `sync'" >> logg.ed
 cp goodiecommand /usr/bin/goodiecommand
 echo "Successfully copied command `goodiecommand'" >> logg.ed
